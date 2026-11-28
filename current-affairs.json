@@ -1,6 +1,95 @@
 {
   "records": [
     {
+      "id": "2026-11-28",
+      "date": "2026-11-28",
+      "upsc": {
+        "title": {
+          "en": "Reading GDP alongside industrial production",
+          "ta": "மொத்த உள்நாட்டு உற்பத்தியையும் தொழில்துறை உற்பத்தியையும் இணைத்துப் படித்தல்"
+        },
+        "syllabus": [
+          "GS III · Indian economy and growth"
+        ],
+        "background": {
+          "en": "On 27 November, MoSPI announced a 30 November briefing covering July–September GDP and October industrial production. The invitation gave the timetable. The estimates themselves were still due.",
+          "ta": "ஜூலை–செப்டம்பர் காலாண்டின் மொத்த உள்நாட்டு உற்பத்தி மற்றும் அக்டோபர் தொழில்துறை உற்பத்தி விவரங்கள் குறித்த செய்தியாளர் சந்திப்பு நவம்பர் 30 அன்று நடைபெறும் என நவம்பர் 27 அன்று புள்ளியியல் அமைச்சகம் அறிவித்தது. மதிப்பீடுகள் அப்போது இன்னும் வெளியாகவில்லை."
+        },
+        "summary": {
+          "en": "Two growth rates can move in different directions because they measure different activities over different periods.",
+          "ta": "இரண்டு வளர்ச்சி விகிதங்கள் வெவ்வேறு செயல்பாடுகளையும் காலங்களையும் அளவிடுவதால் அவை வெவ்வேறு திசைகளில் நகரலாம்."
+        },
+        "modelEssay": {
+          "en": "Suppose a quarterly GDP estimate shows rising output while the following month's industrial index dips. A district planner should first put both observations on a calendar. A change in October cannot directly explain production already recorded between July and September.\n\nCoverage matters too. GDP measures value added across the economy. The industrial index tracks the volume of selected industrial output. A factory may assemble more units while using more purchased components per unit. The count of finished units alone cannot tell us how much value the factory added. Meanwhile, stronger services may support GDP even when industrial activity slows.\n\nAn analyst should align the periods, distinguish inflation-adjusted figures from current-price values and check the comparison base. Then employment and household evidence can help answer the question a growth figure leaves open: who shared in the improvement? A careful public briefing would explain these differences and give the release date of any figures still awaited.",
+          "ta": "ஒரு காலாண்டில் மொத்த உள்நாட்டு உற்பத்தி உயர்ந்து, அடுத்த மாதத்தில் தொழில்துறை உற்பத்திக் குறியீடு குறைவதாகக் கொள்வோம். மாவட்டத் திட்டமிடல் அலுவலர் முதலில் இரண்டு அளவீடுகளின் காலத்தையும் பார்க்க வேண்டும். அக்டோபரில் ஏற்பட்ட மாற்றத்தைக் கொண்டு முந்தைய ஜூலை–செப்டம்பர் உற்பத்தியை நேரடியாக விளக்க முடியாது.\n\nஅளவீட்டின் பரப்பும் முக்கியம். பொருளாதாரத்தின் பல்வேறு துறைகளில் சேர்க்கப்படும் மதிப்பை மொத்த உள்நாட்டு உற்பத்தி கணக்கிடுகிறது. தேர்ந்தெடுக்கப்பட்ட தொழில்களின் உற்பத்தி அளவைக் குறியீடு காட்டுகிறது. ஒரு தொழிற்சாலை அதிக எண்ணிக்கையில் பொருட்களைத் தயாரிக்கலாம். ஆனால் ஒவ்வொரு பொருளுக்கும் வெளியிலிருந்து வாங்கிய உதிரிப்பாகங்களும் அதிகரித்திருந்தால், தயாரிப்பு எண்ணிக்கையை மட்டும் வைத்து அந்த ஆலை சேர்த்த மதிப்பை அறிய முடியாது. இதே காலத்தில் சேவைத் துறை வளர்ச்சியும் மொத்த உற்பத்தியை உயர்த்தலாம்.\n\nஒப்பீட்டுக்கு ஒரே காலத்தைத் தேர்ந்தெடுத்து, விலை மாற்றத்தை நீக்கிய மதிப்பையும் நடப்பு விலை மதிப்பையும் பிரித்துப் பார்க்க வேண்டும். வளர்ச்சியின் பயன் யாரைச் சென்றடைந்தது என்பதை வேலைவாய்ப்பு மற்றும் குடும்பநிலைத் தரவுகள் தெளிவுபடுத்தும்."
+        },
+        "conclusion": {
+          "en": "Match the period and the measure to the policy question before interpreting growth.",
+          "ta": "வளர்ச்சியை விளக்குவதற்கு முன் கொள்கைக் கேள்விக்குப் பொருத்தமான காலத்தையும் அளவீட்டையும் தேர்ந்தெடுக்க வேண்டும்."
+        },
+        "questions": [
+          {
+            "en": "Why might industrial output and real GDP growth diverge? Give a timing example and a coverage example.",
+            "ta": "தொழில்துறை உற்பத்தியும் உண்மையான மொத்த உள்நாட்டு உற்பத்தி வளர்ச்சியும் ஏன் வேறுபடலாம்? காலம் மற்றும் அளவீட்டுப் பரப்பு சார்ந்த எடுத்துக்காட்டுகள் தருக."
+          }
+        ],
+        "sources": [
+          {
+            "name": "MoSPI media invitation, 27 November 2026",
+            "url": "https://www.pib.gov.in/MediaInvitationShare.aspx?InvitationID=159438&lang=2&reg=48"
+          }
+        ]
+      },
+      "tnpsc": {
+        "title": {
+          "en": "Can a Chennai schoolchild cycle to class on Monday?",
+          "ta": "சென்னை மாணவரால் திங்களன்றும் பள்ளிக்கு மிதிவண்டியில் செல்ல முடியுமா?"
+        },
+        "syllabus": [
+          "TNPSC Group I · Tamil Nadu urban development and local administration"
+        ],
+        "background": {
+          "en": "On 27 November the Sports Ministry announced the 100th edition of Sundays on Cycle for 29 November. The planned event provides a starting point for examining everyday cycling in Chennai.",
+          "ta": "நவம்பர் 29 அன்று ‘சண்டேஸ் ஆன் சைக்கிள்’ நிகழ்ச்சியின் நூறாவது பதிப்பு நடைபெறும் என விளையாட்டு அமைச்சகம் நவம்பர் 27 அன்று அறிவித்தது. இதை முன்னிட்டு சென்னையில் அன்றாட மிதிவண்டிப் பயணத்துக்கான வசதிகளை ஆராயலாம்."
+        },
+        "summary": {
+          "en": "A safe school route must work during weekday traffic, including at the junction just outside the school gate.",
+          "ta": "பள்ளி வாயிலுக்கு வெளியே உள்ள சந்திப்பு உட்பட, வேலைநாள் போக்குவரத்து மிகுந்த நேரத்திலும் பள்ளிப் பாதை பாதுகாப்பாக இருக்க வேண்டும்."
+        },
+        "modelEssay": {
+          "en": "A Sunday ride can introduce families to cycling. The harder test comes on Monday, when a student must cross a busy junction carrying a schoolbag. A short stretch of painted lane offers little reassurance if it ends where buses turn.\n\nA Chennai ward could start with one school and invite pupils, parents, bus crews and pedestrians to map the morning journey. Their maps may reveal a drain cover that catches narrow wheels, a crossing hidden by parked vehicles, or a school gate where arriving cars block the footpath. Engineers could trial a protected approach to the junction and a separate drop-off point, while keeping crossings accessible to wheelchair users. Traffic police and school staff could agree on who keeps the junction clear during arrival hours.\n\nCount weekday cycle trips before and after the trial. Also ask pupils who still avoid the route where they feel unsafe. Their answers can identify the next repair even when the overall number of riders rises.",
+          "ta": "ஞாயிற்றுக்கிழமை மிதிவண்டி நிகழ்ச்சி குடும்பங்களுக்கு இப்பயணத்தை அறிமுகப்படுத்தலாம். திங்களன்று பள்ளிப்பையுடன் ஒரு மாணவர் போக்குவரத்து மிகுந்த சந்திப்பைக் கடக்கும்போதுதான் அப்பாதையின் பாதுகாப்பு தெளிவாகத் தெரியும். பேருந்து திரும்பும் இடத்தில் முடிந்துவிடும் மிதிவண்டித் தடம் மாணவருக்குப் போதிய பாதுகாப்பைத் தராது.\n\nசென்னையில் ஒரு வார்டு ஒரு பள்ளியைத் தேர்ந்தெடுத்து மாணவர்கள், பெற்றோர், பேருந்துப் பணியாளர்கள், பாதசாரிகள் ஆகியோருடன் காலைப் பயணத்தை வரைபடமாக்கலாம். சக்கரம் சிக்கக்கூடிய வடிகால் மூடி, நிறுத்தப்பட்ட வாகனங்களால் மறையும் கடப்பிடம், பள்ளி வாயிலில் கார்களால் அடைபடும் நடைபாதை போன்றவை அப்போது தெரியலாம். சந்திப்பை அணுகும் பகுதியில் தடுப்பு அமைத்தல், மாணவர்களை வாகனத்திலிருந்து இறக்கத் தனி இடம் ஒதுக்குதல் ஆகியவற்றைச் சோதிக்கலாம். சக்கர நாற்காலி பயன்படுத்துவோரும் சாலையைக் கடக்க இடமளிக்க வேண்டும். பள்ளி தொடங்கும் நேரத்தில் சந்திப்பைத் தடையின்றி வைத்திருக்கும் பொறுப்பைப் போக்குவரத்துக் காவலர்களும் பள்ளி நிர்வாகமும் பகிர்ந்துகொள்ளலாம்.\n\nமாற்றத்துக்கு முன்னும் பின்னும் வேலைநாட்களில் மிதிவண்டியில் வருவோரை எண்ணலாம். இன்னும் இந்தப் பாதையைத் தவிர்க்கும் மாணவர்களிடம் எங்கே அச்சம் ஏற்படுகிறது என்று கேட்டால் அடுத்து எதைச் சரிசெய்ய வேண்டும் என்பது விளங்கும்."
+        },
+        "conclusion": {
+          "en": "Judge the trial by safe weekday journeys and by the barriers that remain for pupils who would like to cycle.",
+          "ta": "வாரநாட்களில் பாதுகாப்பாக நிகழும் பயணங்களையும் மிதிவண்டியில் வர விரும்பும் மாணவர்களுக்கு இன்னும் உள்ள தடைகளையும் கொண்டு திட்டத்தை மதிப்பிடலாம்."
+        },
+        "questions": [
+          {
+            "en": "Design a ward-level evaluation of a safe cycling route to school in Chennai.",
+            "ta": "சென்னையில் பள்ளிக்கான பாதுகாப்பான மிதிவண்டிப் பாதையை வார்டு அளவில் மதிப்பிடும் முறையை வடிவமைக்கவும்."
+          }
+        ],
+        "sources": [
+          {
+            "name": "Ministry of Youth Affairs and Sports, 27 November 2026",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2342481&lang=1&reg=1"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "MoSPI media invitation, 27 November 2026",
+          "url": "https://www.pib.gov.in/MediaInvitationShare.aspx?InvitationID=159438&lang=2&reg=48"
+        },
+        {
+          "name": "Ministry of Youth Affairs and Sports, 27 November 2026",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2342481&lang=1&reg=1"
+        }
+      ],
+      "generatedAt": "2026-11-28T01:31:40Z"
+    },
+    {
       "id": "2026-11-27",
       "date": "2026-11-27",
       "upsc": {
